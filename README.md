@@ -1,1 +1,1 @@
-# Getting-Data-from-APIs-using-Python-for-data-science-project-
+# We’re going to be working with the Youtube API to collect video statistics from my channel using the requests python library to make an API call and save it as a pandas dataframe. Working with APIs is a necessary skillset for all data scientists and should be incorporated into your data science projects.
